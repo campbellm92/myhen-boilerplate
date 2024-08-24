@@ -9,7 +9,7 @@ Questo repo fornisce un boilerplate per un'app che utilizza lo stack MyHEN:
 
 Questo boilerplate è utile per progetti che utilizzano lo stack MyHEN, ideale per creare siti statici e applicazioni web dinamiche.
 
-Il proghetto e ancora un lavoro in corso. Intendo continuare ad aggiungere nuovo boilerplate.
+**_Il proghetto e ancora un lavoro in corso. Intendo continuare ad aggiungere nuovo boilerplate._**
 
 ### Come Usare
 
