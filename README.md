@@ -9,6 +9,8 @@ Questo repo fornisce un boilerplate per un'app che utilizza lo stack MyHEN:
 
 Questo boilerplate è utile per progetti che utilizzano lo stack MyHEN, ideale per creare siti statici e applicazioni web dinamiche.
 
+Il proghetto e ancora un lavoro in corso. Intendo continuare ad aggiungere nuovo boilerplate.
+
 ### Come Usare
 
 Per utilizzare questo boilerplate, è necessario avere installato Node.js e MySQL.
@@ -29,10 +31,12 @@ npm install
 
 Creare un file .env nella directory principale e aggiungere le variabili necessarie. Al minimo, è necessario configurare il database:
 
+```bash
 DB_HOST=localhost
 DB_USER=user
 DB_PASSWORD=pass
 DB_NAME=db_name
+```
 
 4. Avviare il server:
 
