@@ -1,6 +1,6 @@
 ## MyHEN Stack Boilerplate
 
-Questo repo provede boilerplate per un app che usa il stack MyHEN: [!hen](images/chook0a.gif)
+Questo repo provede boilerplate per un app che usa il stack MyHEN: ![hen](images/chook0a.gif)
 
 **MySQL:** per il database.
 **Handlebars** per templating, rendering lato server.
